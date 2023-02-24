@@ -1,5 +1,4 @@
 #include<stdio.h>
-// GAME TO GUESS A CORRECT NUMBER
 #include<stdlib.h>
 #include<time.h>
 int main(){
